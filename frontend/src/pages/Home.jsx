@@ -12,7 +12,7 @@ export default function Home() {
         <HeroSection />
       </>
       <FeaturesGrid title={"Our"} subtitle={"Services"} />
-      <DoctorForm />
+      {/* <DoctorForm /> */}
         {/* <DoctorList /> */}
         <HowItWorksSection />
         <SearchSection />
