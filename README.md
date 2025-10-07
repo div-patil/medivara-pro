@@ -47,13 +47,12 @@ A **full-stack healthcare platform** where patients can search doctors, book app
 
 ### **Frontend**
 ```bash
-git clone https://github.com/divyapatil/localdoc-frontend.git
-cd localdoc-frontend
+git clone https://github.com/divyapatil/medivara-pro.git
+cd frontend
 npm install
 npm start
 
 
-git clone https://github.com/divyapatil/localdoc-backend.git
-cd localdoc-backend
+cd backend
 npm install
 npm start```
