@@ -2,9 +2,9 @@
 
 A **full-stack healthcare platform** where patients can search doctors, book appointments, and manage profiles seamlessly.  
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="300"/>
-</p>
+</p> -->
 
 ---
 
