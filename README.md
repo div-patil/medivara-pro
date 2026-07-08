@@ -56,3 +56,11 @@ npm start
 cd backend
 npm install
 node server.js
+
+## Images
+ <img width="1100" height="591" alt="image" src="https://github.com/user-attachments/assets/3c6d551e-1e43-46d5-a54e-377c12c8dce1" />
+<img width="1083" height="577" alt="image" src="https://github.com/user-attachments/assets/a0d738e2-e107-4b17-82b3-912fd42aa0bb" />
+<img width="1103" height="591" alt="image" src="https://github.com/user-attachments/assets/449b1431-2aa5-44a4-9a0f-d655a7288641" />
+<img width="1102" height="591" alt="image" src="https://github.com/user-attachments/assets/a12206fe-4a29-49b2-90f4-6ea04cbe579b" />
+<img width="1099" height="593" alt="image" src="https://github.com/user-attachments/assets/e689b799-c0e4-4403-85b6-f94932e820a3" />
+
